@@ -16,9 +16,9 @@ Platform Sharing & Visibility Architect • Platform Integration Architect • P
 
 ## 🏢 Professional Profile
 
-Leading enterprise Salesforce implementations at Accenture with a focus on **secure, scalable architectures** and **AI-driven innovation** (Agentforce, Data Cloud) across large-scale digital transformation projects. Selected as **1 of 3 Technical Leads** for critical production engagements.
+Leading enterprise Salesforce implementations at Accenture with a focus on **secure, scalable architectures** and **AI-driven innovation** (Agentforce, Data Cloud) across large-scale digital transformation projects.
 
-**Agentblazer Champion '25** • Triple Star Ranger • 332 Badges • 172,675 Points
+**Agentblazer Champion** • Triple Star Ranger
 
 ## 💻 Technical Stack
 
@@ -27,6 +27,7 @@ Leading enterprise Salesforce implementations at Accenture with a focus on **sec
 ### Salesforce Platform
 ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Aura](https://img.shields.io/badge/Aura_Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Flows](https://img.shields.io/badge/Flows-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![CRM_Analytics](https://img.shields.io/badge/CRM_Analytics-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
@@ -48,7 +49,7 @@ Leading enterprise Salesforce implementations at Accenture with a focus on **sec
 
 ## 🚀 Open Source Contributions
 
-Contributing to AI/ML infrastructure projects to understand modern architectures applicable to Salesforce Agentforce and Einstein Analytics:
+I sometimes contribute to open source projects:
 
 <div align="center">
 
@@ -60,16 +61,6 @@ Contributing to AI/ML infrastructure projects to understand modern architectures
 | [InsForge](https://github.com/InsForge/InsForge) | Agentic Development | TypeScript, Node.js |
 
 </div>
-
-## 🏆 Recognition & Impact
-
-```text
-✓ Apex Award Recipient (Accenture)
-✓ Empaneled Technical Interviewer - Conducting external technical assessments
-✓ Agentblazer Champion '25 - Triple Star Ranger on Trailhead
-✓ 3rd Place - X24 Hackathon (AI-enabled production solution)
-✓ Top 7% on LeetCode
-```
 
 ## 📊 GitHub Activity
 
