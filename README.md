@@ -16,7 +16,7 @@ Platform Sharing & Visibility Architect • Platform Integration Architect • P
 
 ## 🏢 Professional Profile
 
-Leading enterprise Salesforce implementations at Accenture with focus on **CRM Analytics Cloud** (Einstein Analytics/Tableau CRM) and large-scale digital transformation projects. Selected as **1 of 3 Technical Leads** for critical production engagements.
+Leading enterprise Salesforce implementations at Accenture with a focus on **secure, scalable architectures** and **AI-driven innovation** (Agentforce, CRM Analytics Cloud, Data Cloud) across large-scale digital transformation projects. Selected as **1 of 3 Technical Leads** for critical production engagements.
 
 **Agentblazer Champion '25** • Triple Star Ranger • 332 Badges • 172,675 Points
 
