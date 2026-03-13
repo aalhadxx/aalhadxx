@@ -1,8 +1,6 @@
 <div align="center">
 
-# Aalhad
-
-**9x Salesforce Certified Team Lead @ Accenture**
+**9x Salesforce Certified | GitHub Copilot Certified | Leading enterprise cloud transformations**
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/aalhadxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aalhadxx)
