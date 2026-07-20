@@ -1,81 +1,36 @@
 <div align="center">
 
-**9x Salesforce Certified | GitHub Copilot Certified | Leading enterprise cloud transformations**
+**Salesforce Architect — Apex, LWC, Agentforce**
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailblazer.me/id/aalhadxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aalhadxx)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/aalhadxx)
-
-Platform Sharing & Visibility Architect • Platform Integration Architect • Platform Developer II
 
 </div>
 
 ---
 
-## 🏢 Professional Profile
+Platform Developer II • Integration Architect • Agentforce
 
-Leading enterprise Salesforce implementations with a focus on **secure, scalable architectures** and **AI-driven innovation** (Agentforce, Data Cloud) across large-scale digital transformation projects.
+I build systems on Salesforce and ship side projects that actually do things.
 
-**Agentblazer Champion** • Triple Star Ranger
+## 🚀 Projects
 
-## 💻 Technical Stack
+| Project | What it does |
+|---------|-------------|
+| [**claude-code-army**](https://github.com/aalhadxx/claude-code-army) | Workspace manager for Claude Code sessions with embedded terminals |
+| [**resumity**](https://github.com/aalhadxx/resumity) | (Private) |
+| [**agentforce-stress-suite**](https://github.com/aalhadxx/agentforce-stress-suite) | Stress-test suite for Salesforce Agentforce agents |
+| [**linkedin-jobs-realtime**](https://github.com/aalhadxx/linkedin-jobs-realtime) | Real-time LinkedIn job search API — jobs within minutes of posting |
+| [**agentforce-lead-capture-agent**](https://github.com/aalhadxx/agentforce-lead-capture-agent) | Open-source Agentforce Service Agent that captures leads via conversational flow |
+| [**agentforce-external-site**](https://github.com/aalhadxx/agentforce-external-site) | Vercel chat app + setup guide for Agentforce Agent API |
+| [**oofline-llm-rn**](https://github.com/aalhadxx/oofline-llm-rn) | Offline LLM chat app built with React Native |
 
-<div align="center">
+## 🛠 Stack
 
-### Salesforce Platform
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Aura](https://img.shields.io/badge/Aura_Components-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Flows](https://img.shields.io/badge/Flows-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![CRM_Analytics](https://img.shields.io/badge/CRM_Analytics-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+**Salesforce:** Apex, LWC, Aura, Flows, CRM Analytics, Agentforce, Data Cloud
 
-### Development & Infrastructure
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+**Everything else:** TypeScript, Node.js, Python, Go, React Native, Docker
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</div>
-
-## 🚀 Open Source Contributions
-
-I sometimes contribute to open source projects:
-
-<div align="center">
-
-| Project | Focus Area | Technology |
-|---------|-----------|------------|
-| [vLLM](https://github.com/vllm-project/vllm) | LLM Inference Engine | Python, CUDA |
-| [KServe](https://github.com/kserve/kserve) | Kubernetes AI Platform | Go, Kubernetes |
-| [fish-speech](https://github.com/fishaudio/fish-speech) | Text-to-Speech | Python, PyTorch |
-| [InsForge](https://github.com/InsForge/InsForge) | Agentic Development | TypeScript, Node.js |
-
-</div>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aalhadxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00A1E0&icon_color=00A1E0&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aalhadxx&theme=tokyonight&hide_border=true&background=0D1117&stroke=00A1E0&ring=00A1E0&fire=00A1E0&currStreakLabel=00A1E0)
-
-</div>
-
----
-
-<div align="center">
-
-**Architecture • Integration • Scale**
+## 📫 Contact
 
 📧 work.aalhad@gmail.com
-
-</div>
