@@ -14,7 +14,7 @@ Platform Sharing & Visibility Architect • Platform Integration Architect • P
 
 ## 🏢 Professional Profile
 
-Leading enterprise Salesforce implementations at Accenture with a focus on **secure, scalable architectures** and **AI-driven innovation** (Agentforce, Data Cloud) across large-scale digital transformation projects.
+Leading enterprise Salesforce implementations with a focus on **secure, scalable architectures** and **AI-driven innovation** (Agentforce, Data Cloud) across large-scale digital transformation projects.
 
 **Agentblazer Champion** • Triple Star Ranger
 
